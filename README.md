@@ -1,5 +1,4 @@
-Question: Calculate the area of a circle and modify the same program to calculate the volume of cylinder given its radius and height
-#include <stdio.h>
+ #include <stdio.h>
 
 int main(){
     int radius = 3;
@@ -9,3 +8,4 @@ int main(){
     printf (" volume of this cylinder is %f",pi*radius*radius*height);
     return 0;
 }
+
